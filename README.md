@@ -1,4 +1,4 @@
-#Touchless HCI - Vision-Based Interface Controller
+﻿#Touchless HCI - Vision-Based Interface Controller
 
 A lightweight, contactless Human-Computer Interaction (HCI) interface that translates real-time hand poses and gestures into operating system inputs (mouse navigation, discrete clicking, document scrolling, and stepped zoom) using a standard webcam.
 
